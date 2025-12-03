@@ -4,3 +4,4 @@ Assignment Reports in different courses - MSc Data Science (University of Skövd
 1. AI Ethics - Report | Can AI be a friend?
 2. Visual Data Analytics | Spotfire Lab Assignment
 3. Visual Data Analytics | Crime Patterns in LA and Airbnb Data
+4. Data Science Project | Collision Prediction in a roundabout based on Trajectory Data
