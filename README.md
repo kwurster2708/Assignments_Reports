@@ -5,3 +5,5 @@ Assignment Reports in different courses - MSc Data Science (University of Skövd
 2. Visual Data Analytics | Spotfire Lab Assignment
 3. Visual Data Analytics | Crime Patterns in LA and Airbnb Data
 4. Data Science Project | Collision Prediction in a roundabout based on Trajectory Data
+5. Information Fusion - Literature Review | Multi-Sensor Data Fusion, AIoT, and Intelligent Modeling for Sustainable
+Smart Cities
